@@ -30,3 +30,7 @@ app.configure('production', function(){
 // Routes
 
 app.get('/', routes.index);
+
+// Listen
+
+app.listen(3000);
