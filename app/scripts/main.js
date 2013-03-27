@@ -1,7 +1,7 @@
 require.config({
   'paths': {
-    "underscore": "libs/underscore",
-    "backbone": "libs/backbone"
+    "underscore": "components/underscore",
+    "backbone": "components/backbone"
   }
 });
 
