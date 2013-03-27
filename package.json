@@ -1,10 +1,9 @@
 {
-    "name": "your_application_name"
-  , "version": "0.0.1"
-  , "private": true
-  , "dependencies": {
-      "express": "latest"
-    , "jade": "latest"
-    , "node-sass": "latest"
+  "name": "your_application_name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "latest",
+    "grunt": "~0.4.1"
   }
 }

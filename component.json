@@ -1,0 +1,11 @@
+{
+  "name": "nerbs",
+  "version": "0.0.1",
+  "main": "assets/styles.css",
+  "dependencies": {
+    "backbone": "latest",
+    "underscore": "latest",
+    "modernizr": "latest",
+    "jquery": "latest"
+  }
+}

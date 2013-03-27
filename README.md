@@ -1,6 +1,12 @@
-## Express, RequireJS, Backbone and Sass
-This is a starter package for building an application with Express, RequireJS, Backbone and Sass. It's an updated version of [Scott Woosley Biggarts](https://github.com/swbiggart/node-express-requirejs-backbone) Express, RequireJS and Backbone starter template. It utilizes [Andrew Nesbitts](https://github.com/andrew/node-sass) Nodejs bindings to libsass.
+## El Nerbs
 
-There are simple examples of how to write a router, view, and model.  
+A boilerplate for more JavaScript than you know what to do with.
 
-It's also currently non-functional.
+#### Using
+  - [Express](http://expressjs.org)
+  - [Backbone](http://backbonejs.org)
+  - [Underscore](http://underscorejs.org)
+  - [Require](http://requirejs.org)
+  - [Grunt](http://gruntjs.org)
+  - [Bower](http://twitter.github.com/bower)
+  - Some other stuff?
