@@ -6,8 +6,9 @@
     "express": "latest"
   },
   "devDependencies": {
-  	"grunt": "~0.4.1",
+    "grunt": "~0.4.1",
     "grunt-contrib-sass": "~0.3.0",
-    "grunt-contrib-compass": "~0.1.3"
+    "grunt-contrib-compass": "~0.1.3",
+    "grunt-contrib-jshint": "~0.4.3"
   }
 }
