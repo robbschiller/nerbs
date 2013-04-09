@@ -9,4 +9,7 @@ A boilerplate for more JavaScript than you know what to do with.
   - [Require](http://requirejs.org)
   - [Grunt](http://gruntjs.org)
   - [Bower](http://twitter.github.com/bower)
-  - Some other stuff?
+
+Intended to be a starting point for a standalone Backbone application. Currently experimental.
+
+Also using a Sass boilerplate wip called [Glob](http://github.com/robbschiller/glob).

@@ -1,9 +1,13 @@
 {
-  "name": "your_application_name",
+  "name": "nerbs",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
     "express": "latest",
     "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "~0.3.0",
+    "grunt-contrib-compass": "~0.1.3"
   }
 }
