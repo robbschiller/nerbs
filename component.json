@@ -6,6 +6,7 @@
     "backbone": "latest",
     "underscore": "latest",
     "modernizr": "latest",
-    "jquery": "latest"
+    "jquery": "latest",
+    "requirejs": "~2.1.5"
   }
 }
