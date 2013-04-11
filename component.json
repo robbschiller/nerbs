@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "main": "app//styles/main.css",
   "dependencies": {
-    "backbone": "latest",
-    "underscore": "latest",
     "modernizr": "latest",
     "jquery": "latest",
-    "requirejs": "~2.1.5"
+    "requirejs": "~2.1.5",
+    "backbone-amd": "~1.0.0",
+    "underscore-amd": "~1.4.4"
   }
 }
