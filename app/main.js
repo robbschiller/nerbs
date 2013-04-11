@@ -5,3 +5,7 @@ require.config({
     "backbone": "components/backbone-amd/backbone"
   }
 });
+
+require(['scripts/views/app'], function(AppView){
+  new AppView;
+});
